@@ -3,5 +3,5 @@ module Lib where
 foo :: Int
 foo = 4
 
--- bar :: Int
--- bar = 5
+bar :: Int
+bar = 5
