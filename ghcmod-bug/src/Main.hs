@@ -6,4 +6,4 @@ main :: IO ()
 main = do
   putStrLn "hello world"
   print foo
-  print bar
+  -- print bar
